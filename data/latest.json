@@ -1,15 +1,11 @@
 {
-  "generated_at": "2026-09-03T13:45:30.719184+00:00",
+  "generated_at": "2026-09-04T13:40:36.302272+00:00",
   "source": "Yahoo Finance (yfinance)",
   "stocks": {
     "BBCA": {
       "name": "Bank Central Asia Tbk",
       "sector": "Perbankan",
       "series": [
-        {
-          "date": "2025-09-03",
-          "close": 7561
-        },
         {
           "date": "2025-09-04",
           "close": 7585
@@ -977,26 +973,26 @@
         {
           "date": "2026-09-03",
           "close": 6775
+        },
+        {
+          "date": "2026-09-04",
+          "close": 6700
         }
       ],
       "fundamental": {
-        "pe": 14.4,
-        "pbv": 3.08,
+        "pe": 14.2,
+        "pbv": 3.04,
         "eps": 472,
         "roe": 21.8,
         "der": null,
-        "div_yield": 571.0,
-        "mcap": "832.487T"
+        "div_yield": 562.0,
+        "mcap": "823.040T"
       }
     },
     "BBRI": {
       "name": "Bank Rakyat Indonesia Tbk",
       "sector": "Perbankan",
       "series": [
-        {
-          "date": "2025-09-03",
-          "close": 3648
-        },
         {
           "date": "2025-09-04",
           "close": 3621
@@ -1938,6 +1934,10 @@
           "close": 3180
         },
         {
+          "date": "2026-08-25",
+          "close": 3180
+        },
+        {
           "date": "2026-08-26",
           "close": 3130
         },
@@ -1964,26 +1964,26 @@
         {
           "date": "2026-09-03",
           "close": 3410
+        },
+        {
+          "date": "2026-09-04",
+          "close": 3390
         }
       ],
       "fundamental": {
-        "pe": 8.4,
+        "pe": 8.3,
         "pbv": 1.6,
         "eps": 407,
         "roe": 19.0,
         "der": null,
-        "div_yield": 1233.0,
-        "mcap": "513.460T"
+        "div_yield": 1226.0,
+        "mcap": "510.819T"
       }
     },
     "TLKM": {
       "name": "Telkom Indonesia Tbk",
       "sector": "Telekomunikasi",
       "series": [
-        {
-          "date": "2025-09-03",
-          "close": 2876
-        },
         {
           "date": "2025-09-04",
           "close": 2913
@@ -2925,6 +2925,10 @@
           "close": 2620
         },
         {
+          "date": "2026-08-25",
+          "close": 2620
+        },
+        {
           "date": "2026-08-26",
           "close": 2600
         },
@@ -2951,26 +2955,26 @@
         {
           "date": "2026-09-03",
           "close": 2600
+        },
+        {
+          "date": "2026-09-04",
+          "close": 2610
         }
       ],
       "fundamental": {
         "pe": 14.6,
-        "pbv": 1.91,
+        "pbv": 1.92,
         "eps": 178,
         "roe": 17.7,
         "der": 0.6,
-        "div_yield": 862.0,
-        "mcap": "256.310T"
+        "div_yield": 858.0,
+        "mcap": "257.296T"
       }
     },
     "ASII": {
       "name": "Astra International Tbk",
       "sector": "Otomotif & Konglomerasi",
       "series": [
-        {
-          "date": "2025-09-03",
-          "close": 5147
-        },
         {
           "date": "2025-09-04",
           "close": 5147
@@ -3912,6 +3916,10 @@
           "close": 4790
         },
         {
+          "date": "2026-08-25",
+          "close": 4790
+        },
+        {
           "date": "2026-08-26",
           "close": 4780
         },
@@ -3938,26 +3946,26 @@
         {
           "date": "2026-09-03",
           "close": 5050
+        },
+        {
+          "date": "2026-09-04",
+          "close": 4900
         }
       ],
       "fundamental": {
-        "pe": 6.8,
-        "pbv": 0.88,
+        "pe": 6.6,
+        "pbv": 0.85,
         "eps": 740,
         "roe": 12.0,
         "der": 0.41,
-        "div_yield": 806.0,
-        "mcap": "201.596T"
+        "div_yield": 772.0,
+        "mcap": "195.608T"
       }
     },
     "GOTO": {
       "name": "GoTo Gojek Tokopedia Tbk",
       "sector": "Teknologi",
       "series": [
-        {
-          "date": "2025-09-03",
-          "close": 58
-        },
         {
           "date": "2025-09-04",
           "close": 59
@@ -4924,6 +4932,10 @@
         },
         {
           "date": "2026-09-03",
+          "close": 50
+        },
+        {
+          "date": "2026-09-04",
           "close": 50
         }
       ],
