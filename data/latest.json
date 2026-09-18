@@ -1,15 +1,11 @@
 {
-  "generated_at": "2026-09-17T14:23:25.664982+00:00",
+  "generated_at": "2026-09-18T13:43:45.233709+00:00",
   "source": "Yahoo Finance (yfinance)",
   "stocks": {
     "BBCA": {
       "name": "Bank Central Asia Tbk",
       "sector": "Perbankan",
       "series": [
-        {
-          "date": "2025-09-17",
-          "close": 7443
-        },
         {
           "date": "2025-09-18",
           "close": 7300
@@ -981,26 +977,26 @@
         {
           "date": "2026-09-17",
           "close": 6350
+        },
+        {
+          "date": "2026-09-18",
+          "close": 6300
         }
       ],
       "fundamental": {
-        "pe": 13.5,
-        "pbv": 2.88,
+        "pe": 13.4,
+        "pbv": 2.86,
         "eps": 472,
         "roe": 21.8,
         "der": null,
-        "div_yield": 602.0,
-        "mcap": "780.264T"
+        "div_yield": 600.0,
+        "mcap": "773.903T"
       }
     },
     "BBRI": {
       "name": "Bank Rakyat Indonesia Tbk",
       "sector": "Perbankan",
       "series": [
-        {
-          "date": "2025-09-17",
-          "close": 3820
-        },
         {
           "date": "2025-09-18",
           "close": 3847
@@ -1976,26 +1972,26 @@
         {
           "date": "2026-09-17",
           "close": 3330
+        },
+        {
+          "date": "2026-09-18",
+          "close": 3310
         }
       ],
       "fundamental": {
-        "pe": 8.2,
-        "pbv": 1.56,
+        "pe": 8.1,
+        "pbv": 1.55,
         "eps": 407,
         "roe": 19.0,
         "der": null,
         "div_yield": 1255.0,
-        "mcap": "501.414T"
+        "mcap": "498.765T"
       }
     },
     "TLKM": {
       "name": "Telkom Indonesia Tbk",
       "sector": "Telekomunikasi",
       "series": [
-        {
-          "date": "2025-09-17",
-          "close": 3088
-        },
         {
           "date": "2025-09-18",
           "close": 3005
@@ -2971,26 +2967,26 @@
         {
           "date": "2026-09-17",
           "close": 2590
+        },
+        {
+          "date": "2026-09-18",
+          "close": 2560
         }
       ],
       "fundamental": {
-        "pe": 14.5,
-        "pbv": 1.9,
+        "pe": 14.4,
+        "pbv": 2.13,
         "eps": 178,
         "roe": 17.7,
         "der": 0.6,
-        "div_yield": 839.0,
-        "mcap": "255.325T"
+        "div_yield": 862.0,
+        "mcap": "252.367T"
       }
     },
     "ASII": {
       "name": "Astra International Tbk",
       "sector": "Otomotif & Konglomerasi",
       "series": [
-        {
-          "date": "2025-09-17",
-          "close": 5334
-        },
         {
           "date": "2025-09-18",
           "close": 5217
@@ -3966,26 +3962,26 @@
         {
           "date": "2026-09-17",
           "close": 4900
+        },
+        {
+          "date": "2026-09-18",
+          "close": 4820
         }
       ],
       "fundamental": {
-        "pe": 6.6,
-        "pbv": 0.85,
+        "pe": 6.5,
+        "pbv": 0.84,
         "eps": 740,
         "roe": 12.0,
         "der": 0.41,
-        "div_yield": 804.0,
-        "mcap": "195.608T"
+        "div_yield": 796.0,
+        "mcap": "192.415T"
       }
     },
     "GOTO": {
       "name": "GoTo Gojek Tokopedia Tbk",
       "sector": "Teknologi",
       "series": [
-        {
-          "date": "2025-09-17",
-          "close": 57
-        },
         {
           "date": "2025-09-18",
           "close": 56
@@ -4956,6 +4952,10 @@
         },
         {
           "date": "2026-09-17",
+          "close": 50
+        },
+        {
+          "date": "2026-09-18",
           "close": 50
         }
       ],
