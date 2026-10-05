@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-10-02T15:55:36.948277+00:00",
+  "generated_at": "2026-10-05T18:43:22.429658+00:00",
   "source": "Yahoo Finance (yfinance)",
   "stocks": {
     "BBCA": {
       "name": "Bank Central Asia Tbk",
       "sector": "Perbankan",
       "series": [
-        {
-          "date": "2025-10-02",
-          "close": 7111
-        },
-        {
-          "date": "2025-10-03",
-          "close": 7134
-        },
         {
           "date": "2025-10-06",
           "close": 7111
@@ -981,30 +973,26 @@
         {
           "date": "2026-10-02",
           "close": 6100
+        },
+        {
+          "date": "2026-10-05",
+          "close": 6175
         }
       ],
       "fundamental": {
-        "pe": 12.9,
-        "pbv": 2.77,
+        "pe": 13.1,
+        "pbv": 2.8,
         "eps": 472,
         "roe": 21.8,
         "der": null,
-        "div_yield": 635.0,
-        "mcap": "749.545T"
+        "div_yield": 625.0,
+        "mcap": "758.548T"
       }
     },
     "BBRI": {
       "name": "Bank Rakyat Indonesia Tbk",
       "sector": "Perbankan",
       "series": [
-        {
-          "date": "2025-10-02",
-          "close": 3358
-        },
-        {
-          "date": "2025-10-03",
-          "close": 3340
-        },
         {
           "date": "2025-10-06",
           "close": 3313
@@ -1976,30 +1964,26 @@
         {
           "date": "2026-10-02",
           "close": 3080
+        },
+        {
+          "date": "2026-10-05",
+          "close": 3120
         }
       ],
       "fundamental": {
-        "pe": 7.6,
-        "pbv": 1.44,
+        "pe": 7.7,
+        "pbv": 1.46,
         "eps": 407,
         "roe": 19.0,
         "der": null,
-        "div_yield": 1348.0,
-        "mcap": "463.771T"
+        "div_yield": 1357.0,
+        "mcap": "470.135T"
       }
     },
     "TLKM": {
       "name": "Telkom Indonesia Tbk",
       "sector": "Telekomunikasi",
       "series": [
-        {
-          "date": "2025-10-02",
-          "close": 2894
-        },
-        {
-          "date": "2025-10-03",
-          "close": 2839
-        },
         {
           "date": "2025-10-06",
           "close": 2783
@@ -2971,30 +2955,26 @@
         {
           "date": "2026-10-02",
           "close": 2250
+        },
+        {
+          "date": "2026-10-05",
+          "close": 2290
         }
       ],
       "fundamental": {
-        "pe": 12.6,
-        "pbv": 1.65,
-        "eps": 178,
+        "pe": 13.2,
+        "pbv": 1.91,
+        "eps": 173,
         "roe": 17.7,
         "der": 0.6,
         "div_yield": 992.0,
-        "mcap": "221.807T"
+        "mcap": "225.750T"
       }
     },
     "ASII": {
       "name": "Astra International Tbk",
       "sector": "Otomotif & Konglomerasi",
       "series": [
-        {
-          "date": "2025-10-02",
-          "close": 5334
-        },
-        {
-          "date": "2025-10-03",
-          "close": 5451
-        },
         {
           "date": "2025-10-06",
           "close": 5451
@@ -3966,30 +3946,26 @@
         {
           "date": "2026-10-02",
           "close": 4630
+        },
+        {
+          "date": "2026-10-05",
+          "close": 4750
         }
       ],
       "fundamental": {
-        "pe": 6.3,
-        "pbv": 0.8,
+        "pe": 6.4,
+        "pbv": 0.82,
         "eps": 740,
         "roe": 12.0,
         "der": 0.41,
-        "div_yield": 865.0,
-        "mcap": "184.830T"
+        "div_yield": 842.0,
+        "mcap": "189.620T"
       }
     },
     "GOTO": {
       "name": "GoTo Gojek Tokopedia Tbk",
       "sector": "Teknologi",
       "series": [
-        {
-          "date": "2025-10-02",
-          "close": 54
-        },
-        {
-          "date": "2025-10-03",
-          "close": 57
-        },
         {
           "date": "2025-10-06",
           "close": 57
@@ -4957,16 +4933,20 @@
         {
           "date": "2026-10-02",
           "close": 30
+        },
+        {
+          "date": "2026-10-05",
+          "close": 29
         }
       ],
       "fundamental": {
         "pe": null,
-        "pbv": 0.99,
+        "pbv": 0.95,
         "eps": 0,
         "roe": -1.2,
         "der": 0.28,
         "div_yield": 0,
-        "mcap": "31.983T"
+        "mcap": "30.917T"
       }
     }
   }
