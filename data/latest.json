@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T18:43:22.429658+00:00",
+  "generated_at": "2026-10-06T16:06:49.014438+00:00",
   "source": "Yahoo Finance (yfinance)",
   "stocks": {
     "BBCA": {
@@ -977,16 +977,20 @@
         {
           "date": "2026-10-05",
           "close": 6175
+        },
+        {
+          "date": "2026-10-06",
+          "close": 6100
         }
       ],
       "fundamental": {
-        "pe": 13.1,
-        "pbv": 2.8,
+        "pe": 12.9,
+        "pbv": 2.77,
         "eps": 472,
         "roe": 21.8,
         "der": null,
-        "div_yield": 625.0,
-        "mcap": "758.548T"
+        "div_yield": 617.0,
+        "mcap": "749.335T"
       }
     },
     "BBRI": {
@@ -1968,16 +1972,20 @@
         {
           "date": "2026-10-05",
           "close": 3120
+        },
+        {
+          "date": "2026-10-06",
+          "close": 3110
         }
       ],
       "fundamental": {
-        "pe": 7.7,
+        "pe": 7.6,
         "pbv": 1.46,
         "eps": 407,
         "roe": 19.0,
         "der": null,
-        "div_yield": 1357.0,
-        "mcap": "470.135T"
+        "div_yield": 1340.0,
+        "mcap": "468.628T"
       }
     },
     "TLKM": {
@@ -2959,16 +2967,20 @@
         {
           "date": "2026-10-05",
           "close": 2290
+        },
+        {
+          "date": "2026-10-06",
+          "close": 2280
         }
       ],
       "fundamental": {
-        "pe": 13.2,
-        "pbv": 1.91,
-        "eps": 173,
+        "pe": 12.9,
+        "pbv": 1.9,
+        "eps": 176,
         "roe": 17.7,
         "der": 0.6,
-        "div_yield": 992.0,
-        "mcap": "225.750T"
+        "div_yield": 975.0,
+        "mcap": "224.765T"
       }
     },
     "ASII": {
@@ -3950,16 +3962,20 @@
         {
           "date": "2026-10-05",
           "close": 4750
+        },
+        {
+          "date": "2026-10-06",
+          "close": 4820
         }
       ],
       "fundamental": {
-        "pe": 6.4,
-        "pbv": 0.82,
+        "pe": 6.5,
+        "pbv": 0.84,
         "eps": 740,
         "roe": 12.0,
         "der": 0.41,
-        "div_yield": 842.0,
-        "mcap": "189.620T"
+        "div_yield": 821.0,
+        "mcap": "192.415T"
       }
     },
     "GOTO": {
@@ -4937,16 +4953,20 @@
         {
           "date": "2026-10-05",
           "close": 29
+        },
+        {
+          "date": "2026-10-06",
+          "close": 31
         }
       ],
       "fundamental": {
         "pe": null,
-        "pbv": 0.95,
+        "pbv": 1.02,
         "eps": 0,
         "roe": -1.2,
         "der": 0.28,
         "div_yield": 0,
-        "mcap": "30.917T"
+        "mcap": "33.049T"
       }
     }
   }
