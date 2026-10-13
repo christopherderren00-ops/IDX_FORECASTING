@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T19:12:49.344990+00:00",
+  "generated_at": "2026-10-13T17:03:30.616660+00:00",
   "source": "Yahoo Finance (yfinance)",
   "stocks": {
     "BBCA": {
@@ -960,13 +960,13 @@
         }
       ],
       "fundamental": {
-        "pe": 12.6,
+        "pe": 12.4,
         "pbv": 2.7,
-        "eps": 472,
+        "eps": 480,
         "roe": 21.8,
         "der": null,
-        "div_yield": 630.0,
-        "mcap": "731.114T"
+        "div_yield": 640.0,
+        "mcap": "730.908T"
       }
     },
     "BBRI": {
@@ -1928,12 +1928,12 @@
       ],
       "fundamental": {
         "pe": 7.6,
-        "pbv": 1.46,
-        "eps": 407,
+        "pbv": 1.44,
+        "eps": 406,
         "roe": 19.0,
         "der": null,
-        "div_yield": 1348.0,
-        "mcap": "468.288T"
+        "div_yield": 1344.0,
+        "mcap": "464.107T"
       }
     },
     "TLKM": {
@@ -2894,13 +2894,13 @@
         }
       ],
       "fundamental": {
-        "pe": 13.2,
-        "pbv": 1.68,
-        "eps": 173,
+        "pe": 12.7,
+        "pbv": 1.87,
+        "eps": 176,
         "roe": 17.7,
         "der": 0.6,
-        "div_yield": 962.0,
-        "mcap": "224.765T"
+        "div_yield": 979.0,
+        "mcap": "220.821T"
       }
     },
     "ASII": {
@@ -3861,13 +3861,13 @@
         }
       ],
       "fundamental": {
-        "pe": 6.5,
-        "pbv": 0.83,
-        "eps": 740,
+        "pe": 6.4,
+        "pbv": 0.82,
+        "eps": 742,
         "roe": 12.0,
         "der": 0.41,
-        "div_yield": 809.0,
-        "mcap": "192.016T"
+        "div_yield": 811.0,
+        "mcap": "189.620T"
       }
     },
     "GOTO": {
